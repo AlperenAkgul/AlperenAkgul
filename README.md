@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperenakgul&label=Profile%20views&color=0e75b6&style=flat" alt="alperenakgul" /> </p>
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperenakgul" alt="alperenakgul" /></a> </p>
 
 - 🔭 I’m currently working on **Deep Learning, Machine Learning, ANN**
@@ -32,6 +34,17 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenakgul&show_icons=true&locale=en&layout=compact" alt="alperenakgul" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperenakgul&show_icons=true&locale=en" alt="alperenakgul" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenakgul&" alt="alperenakgul" /></p>
+
+## 🗂️ Highlight Projects
+<a href="https://github.com/AlperenAkgul/PD2-Odevler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=PD2-Odevler&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PD2-Odevler" />
+</a>
+
+<a href="https://github.com/AlperenAkgul/VentusOVC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=VentusOVC&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="VentusOVC" />
+</a>
