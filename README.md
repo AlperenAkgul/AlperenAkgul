@@ -1,7 +1,7 @@
 <h1 align="center">Hello There👋, I'm Alperen Akgül</h1>
 <h3 align="center">A passionate computer engineering student from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alperenakgul&label=Profile%20views&color=0e75b6&style=flat" alt="alperenakgul" /> </p> 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlperenAkgul.AlperenAkgul)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 - 🔭 I’m currently working on **Deep Learning, Machine Learning, ANN**
