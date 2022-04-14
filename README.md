@@ -14,6 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperenakgul" alt="alperenakgul" /></a> </p>
 
+##
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
@@ -37,6 +38,8 @@
 <a href="https://www.youtube.com/c/diprone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="diprone" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alperenakgl23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alperenakgl23" height="30" width="40" /></a>
 </p>
+
+##
 
 <h1 align="center">🗂️ Highlight Projects</h1>
 <p align="left"><a href="https://github.com/AlperenAkgul/PD2-Odevler">
