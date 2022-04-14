@@ -41,7 +41,7 @@
 
 ##
 
-##🗂️ Highlight Projects
+##<h3 align="left">🗂️ Highlight Projects</h3>
 <p align="left"><a href="https://github.com/AlperenAkgul/PD2-Odevler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=PD2-Odevler&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PD2-Odevler" />
 </a>
