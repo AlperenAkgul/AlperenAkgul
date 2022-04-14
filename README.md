@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **alperenakgl23@gmail.com**
 
+##
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperenakgul" alt="alperenakgul" /></a> </p>
 
 ### Blogs posts
