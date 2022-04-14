@@ -3,7 +3,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 - 👋 Hi, I’m @AlperenAkgul
-- 👀 I’m interested in developing softwares.
+- 👀 I’m interested in developing softwares, deep learning, AI.
 - 🌱 I’m currently learning Python, C, C#
 - 📫 E-mail: alperenakgl23@gmail.com / alparabellum23@gmail.com
 
@@ -21,10 +21,11 @@
 
 ## 🗂️ Highlight Projects
 <a href="https://github.com/AlperenAkgul/PD2-Odevler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=PD2-Odevler_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PD2 Odevler" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=PD2-Odevler_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PD2-Odevler" />
 </a>
+
 <a href="https://github.com/AlperenAkgul/VentusOVC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=VEntusOVC&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="VentusOVC" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=VentusOVC&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="VentusOVC" />
 </a>
 
 
