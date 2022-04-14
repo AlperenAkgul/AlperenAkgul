@@ -5,13 +5,13 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperenakgul" alt="alperenakgul" /></a> </p>
-
 - 🔭 I’m currently working on **Deep Learning, Machine Learning, ANN**
 
 - 🌱 I’m currently learning **Python, C, C#, AI**
 
 - 📫 How to reach me **alperenakgl23@gmail.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperenakgul" alt="alperenakgul" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -24,8 +24,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/alperenakgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alperenakgul" height="30" width="40" /></a>
+<p align="left"> <a href="https://dev.to/alperenakgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alperenakgul" height="30" width="40" /></a>
 <a href="https://twitter.com/diprone23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diprone23" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alperenakgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperenakgl" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/alperen akgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alperen akgul" height="30" width="40" /></a>
@@ -36,7 +35,7 @@
 </p>
 
 <h1 align="center">🗂️ Highlight Projects</h1>
-<a href="https://github.com/AlperenAkgul/PD2-Odevler">
+<p align="left"><a href="https://github.com/AlperenAkgul/PD2-Odevler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=PD2-Odevler&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PD2-Odevler" />
 </a>
 
