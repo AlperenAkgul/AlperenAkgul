@@ -11,11 +11,10 @@
 - 📫 How to reach me **alperenakgl23@gmail.com**
 ##
 
-<h3 align="left">🏆 GitHub Trophies</h3>
+##🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alperenakgul" alt="alperenakgul" /></a> </p>
-##
 
-<h3 align="left">🔧 Technologies & Tools</h3>
+##🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=6aa6f8)
