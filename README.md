@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 <h1 align="center">I'm Alperen Akgül</h1>
 <h3 align="center">A passionate computer engineering student 👨‍💻 at Karabuk University 🚀</h3>
@@ -44,5 +44,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alperenakgul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alperenakgul" /></a></p><br><br>
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlperenAkgul.AlperenAkgul)
+
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlperenAkgul.AlperenAkgul)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
