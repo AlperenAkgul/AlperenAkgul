@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Deep Learning, Machine Learning, ANN**
 
-- 🌱 I’m currently learning **Python, C, C#, AI**
+- 🌱 I’m currently learning **Python, C, C#, Java, AI**
 
 - 📫 How to reach me **alperenakgl23@gmail.com**
 
