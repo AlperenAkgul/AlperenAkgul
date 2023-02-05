@@ -4,9 +4,9 @@
 <h1 align="center">I'm Alperen Akgül</h1>
 <h3 align="center">A passionate computer engineering student 👨‍💻 at Karabuk University 🚀</h3>
 
-- 🔭 I’m currently working on **Deep Learning, Machine Learning, ANN**
+- 🔭 I’m currently working on **Artifical Intelligence, C++**
 
-- 🌱 I’m currently learning **Python, C, C#, Java, AI**
+- 🌱 I’m currently learning **Python, C/C++, C#, Java, AI**
 
 - 📫 How to reach me **alperenakgl23@gmail.com**
 
@@ -41,7 +41,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=Java-Calismalarim&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Java-Calismalarim" />
 </a>
 
-<a href="https://github.com/AlperenAkgul/Data-Structures>
+<a href="https://github.com/AlperenAkgul/Data-Structures">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=Data-Structures&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Data-Structures" />
 </a>
  
