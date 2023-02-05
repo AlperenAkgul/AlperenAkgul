@@ -37,12 +37,12 @@
 <br />
 
 ## 🗂️ Highlight Projects
-<p align="left"><a href="https://github.com/AlperenAkgul/PD2-Odevler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=PD2-Odevler&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PD2-Odevler" />
+<p align="left"><a href="https://github.com/AlperenAkgul/Java-Calismalarim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=Java-Calismalarim&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Java-Calismalarim" />
 </a>
 
-<a href="https://github.com/AlperenAkgul/VentusOVC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=VentusOVC&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="VentusOVC" />
+<a href="https://github.com/AlperenAkgul/Data-Structures>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=Data-Structures&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Data-Structures" />
 </a>
  
 <h3 align="left">Support:</h3>
