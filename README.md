@@ -37,8 +37,8 @@
 <br />
 
 ## 🗂️ Highlight Projects
-<p align="left"><a href="https://github.com/AlperenAkgul/Java-Calismalarim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=Java-Calismalarim&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Java-Calismalarim" />
+<p align="left"><a href="https://github.com/AlperenAkgul/IBP-Course">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=IBP-Course&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="IBP-Course" />
 </a>
 
 <a href="https://github.com/AlperenAkgul/Data-Structures">
