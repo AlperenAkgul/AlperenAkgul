@@ -2,7 +2,7 @@
 <p align="left"><a href="https://github.com/AlperenAkgul/IBP-Course">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=IBP-Course&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="IBP-Course" />
 </a>
- <h3>YouTube Link for Presentation: https://www.youtube.com/watch?v=gyHMPzkrSnU</h3>
+ <h3>YouTube Link for Presentation: https://www.youtube.com/watch?v=2pJ0mUvcBuU</h3>
   
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
