@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 <h1 align="center">I'm Alperen Akgül</h1>
-<h3 align="center">A passionate computer engineering student 👨‍💻 at Karabuk University 🚀</h3>
+<h3 align="center">A passionate computer engineering student 👨‍💻 at Bolu Abant İzzet Baysal University 🚀</h3>
 
 - 🔭 I’m currently working on **Artifical Intelligence, C++**
 
