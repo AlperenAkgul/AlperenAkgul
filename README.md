@@ -33,7 +33,8 @@
 <a href="https://discord.gg/alperenakgl#7722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alperenakgl#7722" height="30" width="40" /></a>
 </p>
 <br />
-<br>
+
+
 ## 🗂️ Highlight Projects
 <p align="left"><a href="https://github.com/AlperenAkgul/IBP-Course">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=IBP-Course&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="IBP-Course" />
