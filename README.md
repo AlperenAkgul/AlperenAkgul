@@ -41,8 +41,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=IBP-Course&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="IBP-Course" />
 </a>
 
-<a href="https://github.com/AlperenAkgul/Data-Structures">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=Data-Structures&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Data-Structures" />
+<a href="https://github.com/AlperenAkgul/Twitter_Oppenheimer_Duygu_Analizi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=Twitter_Oppenheimer_Duygu_Analizi&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Twitter_Oppenheimer_Duygu_Analizi" />
 </a>
  
 <h3 align="left">Support:</h3>
