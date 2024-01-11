@@ -27,11 +27,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://linkedin.com/in/alperenakgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperenakgl" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18232605/alperen-akgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alperen-akgul" height="30" width="40" /></a>
-<a href="https://medium.com/@alperenakgl23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alperenakgl23" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alperenakgl23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alperenakgl23" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<alperenakgl>\profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<alperenakgl>\profile" height="30" width="40" /></a>
 <a href="https://dev.to/alperenakgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alperenakgul" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/diprone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="diprone" height="30" width="40" /></a>
 <a href="https://discord.gg/alperenakgl#7722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alperenakgl#7722" height="30" width="40" /></a>
 </p>
 <br />
