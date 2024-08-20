@@ -10,15 +10,11 @@
 
 - 📫 How to reach me **alperenakgl23@gmail.com**
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlperenAkgul&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h2 align="left">🔧 Languages and Tools</h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>  
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 
@@ -44,9 +40,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlperenAkgul&repo=Twitter_Oppenheimer_Duygu_Analizi&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Twitter_Oppenheimer_Duygu_Analizi" />
 </a>
  
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/alperenakgul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alperenakgul" /></a></p><br><br>
-<br />
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlperenAkgul&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlperenAkgul.AlperenAkgul)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
